@@ -73,6 +73,6 @@ Vuplex/WebView/Plugins/Mac/VuplexWebViewMac.bundle/Contents/Frameworks/Vuplex[[:
 Vuplex/WebView/Plugins/Mac/VuplexWebViewMac_with_codecs.bundle/Contents/Frameworks/Vuplex[[:space:]]WebView.app/Contents/Frameworks/Chromium[[:space:]]Embedded[[:space:]]Framework.framework/Chromium[[:space:]]Embedded[[:space:]]Framework filter=lfs diff=lfs merge=lfs -text
 
 # GameAnalytics related.
-GameAnalytics/Plugins/tvOS/libGameAnalyticsTVOS.a
-GameAnalytics/Plugins/iOS/libGameAnalytics.a
-GameAnalytics/Plugins/SamsungTV/sqlite3.c
+GameAnalytics/Plugins/tvOS/libGameAnalyticsTVOS.a filter=lfs diff=lfs merge=lfs -text
+GameAnalytics/Plugins/iOS/libGameAnalytics.a filter=lfs diff=lfs merge=lfs -text
+GameAnalytics/Plugins/SamsungTV/sqlite3.c filter=lfs diff=lfs merge=lfs -text
