@@ -1,4 +1,5 @@
-
+0.1.2
+ - Added the Vuplex webview plugin.
 
 0.1.1
  - Added the graphQl plugin as a test.
